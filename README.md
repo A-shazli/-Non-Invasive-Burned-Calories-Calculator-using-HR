@@ -1,6 +1,6 @@
 # Non Invasive Burned Calories Calculator using HR
 
-o	A device used to calculate burned calories based on heart rate and other parameters. Step counter to monitor performance.
+o	A device used to calculate burned calories based on heart rate and other parameters like weight and exercise duration. 
 
 ## Circuit
 ![image](https://user-images.githubusercontent.com/61319952/183266446-c701d47c-1b0e-4f90-8c2f-dbfe78a7cec3.png)
