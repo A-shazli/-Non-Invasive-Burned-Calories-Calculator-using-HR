@@ -7,3 +7,5 @@ o	A device used to calculate burned calories based on heart rate and other param
 
 ## Block diagram
 ![image](https://user-images.githubusercontent.com/61319952/183266455-d8eefd2f-1abf-4718-a5c9-82fb3452a48e.png)
+
+# The mathimatical relation used for males and females can be found in the .ino file.
